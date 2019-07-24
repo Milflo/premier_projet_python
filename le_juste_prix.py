@@ -1,3 +1,5 @@
+print("Bienvenu dans l'émission intitulée : LE JUSTE PRIX")
+
 from random import randint 
 mystere=randint(1,1000)
 
